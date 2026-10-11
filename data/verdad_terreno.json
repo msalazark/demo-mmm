@@ -1,0 +1,64 @@
+{
+  "descripcion": "Verdad de terreno de la simulación (Tiendas Pacífico, ficticio)",
+  "ventas_totales": 370656595.7339505,
+  "linea_base_total": 321680188.81209874,
+  "share_medios": 0.1334,
+  "config": {
+    "n_semanas": 104,
+    "fecha_inicio": "2024-10-07",
+    "semilla": 2026,
+    "max_lag": 8
+  },
+  "canales": {
+    "tv": {
+      "roi_real": 1.6,
+      "inversion_total": 7191938.6557608275,
+      "contribucion_total": 11507101.849217325,
+      "alpha_adstock": 0.7,
+      "ec_factor": 1.3,
+      "pendiente_hill": 1.0,
+      "cpm": 12.0,
+      "share_ventas": 0.031
+    },
+    "youtube": {
+      "roi_real": 1.1,
+      "inversion_total": 4173769.521319229,
+      "contribucion_total": 4591146.473451152,
+      "alpha_adstock": 0.5,
+      "ec_factor": 1.0,
+      "pendiente_hill": 1.0,
+      "cpm": 8.0,
+      "share_ventas": 0.0124
+    },
+    "meta": {
+      "roi_real": 2.4,
+      "inversion_total": 6286949.2356262915,
+      "contribucion_total": 15088678.165503096,
+      "alpha_adstock": 0.3,
+      "ec_factor": 1.0,
+      "pendiente_hill": 1.0,
+      "cpm": 6.0,
+      "share_ventas": 0.0407
+    },
+    "google_search": {
+      "roi_real": 3.2,
+      "inversion_total": 5264922.759281173,
+      "contribucion_total": 16847752.829699755,
+      "alpha_adstock": 0.1,
+      "ec_factor": 0.7,
+      "pendiente_hill": 1.0,
+      "cpm": 25.0,
+      "share_ventas": 0.0455
+    },
+    "tiktok": {
+      "roi_real": 0.9,
+      "inversion_total": 1567422.9610080614,
+      "contribucion_total": 1410680.6649072552,
+      "alpha_adstock": 0.35,
+      "ec_factor": 1.0,
+      "pendiente_hill": 1.0,
+      "cpm": 5.0,
+      "share_ventas": 0.0038
+    }
+  }
+}
